@@ -1,0 +1,6 @@
+{
+  "name": "Livraria Manancial - Catálogo Online & Estoque Bling",
+  "description": "Catálogo online da Livraria Manancial com consulta de estoque em tempo real integrado ao Bling ERP, filtros de livros, bíblias e devocionais, e envio de pedidos direto para o WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
